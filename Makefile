@@ -1,7 +1,7 @@
 #########################################################
 #                  C++ Makefile Template                # 
 #########################################################
-# This Makefile is mean't to be used on linux but       #   
+# This Makefile is meant to be used on linux but       #   
 # it can be modified to work on windows but no support  #
 # will be provided; DO NOT make issues or pull requests #
 # related to windows complatibility.                    #
